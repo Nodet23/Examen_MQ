@@ -1,0 +1,71 @@
+/*
+http://localhost:8080/myapp/listadoInstitutosOr
+http://localhost:8080/myapp/listadoOpAlum/dniBruno
+[
+  {
+    "nombre": "Insituto3",
+    "alumnos": [
+      {
+        "nombre": "Vic",
+        "dni": "dniVic",
+        "instituto": "Insituto3",
+        "operacionesHechas": [
+          "2+2*2-2"
+        ]
+      },
+      {
+        "nombre": "Pau",
+        "dni": "dniPau",
+        "instituto": "Insituto3",
+        "operacionesHechas": [
+          "2+2*2-2"
+        ]
+      }
+    ],
+    "operacionesInstituto": [
+      "2+2*2-2",
+      "2+2*2-2"
+    ]
+  },
+  {
+    "nombre": "Insituto1",
+    "alumnos": [
+      {
+        "nombre": "Bruno",
+        "dni": "dniBruno",
+        "instituto": "Insituto1",
+        "operacionesHechas": [
+          "2+2*2-2"
+        ]
+      },
+      {
+        "nombre": "Juan",
+        "dni": "dniJuan",
+        "instituto": "Insituto1",
+        "operacionesHechas": []
+      }
+    ],
+    "operacionesInstituto": [
+      "2+2*2-2"
+    ]
+  },
+  {
+    "nombre": "Insituto2",
+    "alumnos": [
+      {
+        "nombre": "Alvaro",
+        "dni": "dniAlvaro",
+        "instituto": "Insituto2",
+        "operacionesHechas": []
+      },
+      {
+        "nombre": "Rober",
+        "dni": "dniRober",
+        "instituto": "Insituto2",
+        "operacionesHechas": []
+      }
+    ],
+    "operacionesInstituto": []
+  }
+]
+*/
